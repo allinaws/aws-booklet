@@ -1,0 +1,19 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Sid": "VisualEditor0",
+            "Effect": "Allow",
+            "Action": "*",
+            "Resource": "*",
+            "Condition": {
+                "ForAnyValue:IpAddress": {
+                    "aws:SourceIp": [
+                        "111.222.333.444/32",
+                        "ip-range"
+                    ]
+                }
+            }
+        }
+    ]
+}
