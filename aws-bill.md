@@ -34,16 +34,16 @@
 
 转换成汇款之后，客户在邮件提醒后的30天内，需要通过汇款（电汇）支付费用。当客户进行汇款支付时，需要在汇款单上添加发票号，以便AWS AR团队快速高效查收。同时，客户可以给aws-receivables-support@email.amazon.com发邮件咨询付款进程。
 
-
 <table>
     <tr>
-        <td ><center><img src="images/01.png" >
+        <td ><center><img src="image/01.png" >
         <center>国外账单<center>
         </center></td>
-        <td ><center><img src="images/02.png" >
+        <td ><center><img src="image/02.png" >
         <center>国内账单<center>
         </center></td>
     </tr>
+
 
 注意！
 
@@ -59,14 +59,15 @@
 
 <table>
     <tr>
-        <td ><center><img src="images/03.png" >
+        <td ><center><img src="image/03.png" >
         <center>国外账单<center>
         </center></td>
-        <td ><center><img src="images/04.png" >
+        <td ><center><img src="image/04.png" >
         <center>国内账单<center>
         </center></td>
     </tr>
 ## 关于发票
+
 
 **全球账号：**
 

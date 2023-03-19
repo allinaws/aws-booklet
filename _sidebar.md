@@ -16,3 +16,5 @@
 
 * [AWS 用户启用MFA](aws-mfa.md)
 
+* [费用分析](cost-analysis.md)
+
